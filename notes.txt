@@ -1,0 +1,4 @@
+1 . Add Database
+2 . Make the website responsive
+3 . Add Login/Logout/Sign In functionalities
+4 . Add notification alert for messages
